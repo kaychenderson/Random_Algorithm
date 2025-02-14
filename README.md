@@ -12,7 +12,7 @@
 ##### Professor:  [Raí Emanuel](https://github.com/rai-e)
 ##### Discentes: Amanda Gonçalves, Amanda Santiago, Joana Larissa e Kayc Henderson
 
-#### 🎓 Bacharelado Interdisciplinar em Tecnologia da Informação - Universidade Federal Rural do Semi-Árido (UFERSA)
+#### 🎓 Bacharelado Interdisciplinar em Tecnologia da Informação <br> 🏫 Universidade Federal Rural do Semi-Árido - (UFERSA)
 
 ---
 
