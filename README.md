@@ -56,7 +56,7 @@ cd Random_Algorithm
 
 #### 3️⃣ Execute o programa:
 ```bash
-python Random_alg.py
+python random_alg.py
 ```
 
 <h2 id="usage" style="font-weight: bold; font-size: 2rem">💡 Como Usar</h2> 
